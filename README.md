@@ -22,6 +22,7 @@ This lab simulates a SYN flood denial-of-service attempt against a Windows syste
 ![Open port 80](images/Open_Port_80.png)
 
 - Verify the open port using Nmap
+
 ![Verify open port](images/verify_port_80.png)
 
 ### Step 2: Launch Wireshark
